@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "7c8ff1ec5ed0bf2ee138680d",
+  "owner": "kbhmnhxuf",
+  "repo": "page-b1c02e1a20ef61159c5f61b2",
+  "title": "白嫖(Telelink)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b1c02e1a20ef61159c5f61b2",
+      "a": "白嫖(Telelink)",
+      "b": "",
+      "entity": "白嫖(Telelink)",
+      "brand": "白嫖(Telelink)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "49f03f7cfc28dea8157cd3fa5834c3d126a157e73c39fe123ce7c07edf3375e8",
+      "content": {
+        "keyword1": "白嫖(Telelink)",
+        "keyword2": "",
+        "primary_entity": "白嫖(Telelink)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖 (Telelink) 提供按月计费的网络中转服务。本页面说明套餐内容、设备支持与常见问题。",
+          "AI_DESCRIPTION": "白嫖 (Telelink) 提供按月计费的网络中转服务。本页面说明套餐内容、设备支持与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #0a0a0a;--fg: #e8e8e8;--accent: #39ff14;--muted: #6b6b6b;--border: #1f1f1f;--card: #111111}\n* {box-sizing: border-box;margin: 0;padding: 0}\nhtml {}\nbody {background: var(--bg);color: var(--fg);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif;font-size: 16px;line-height: 1.7;-webkit-font-smoothing: antialiased}\na {color: var(--accent);text-decoration: none}\na:hover {text-decoration: underline}\n\nheader.nav {border-bottom: 1px solid var(--border);position: sticky;top: 0;background: rgba(10,10,10,0.95);backdrop-filter: blur(8px);z-index: 10}\nheader.nav ul {list-style: none;display: flex;gap: 32px;padding: 14px 40px;max-width: 1200px;margin: 0 auto;font-size: 14px;overflow-x: auto}\nheader.nav a {color: var(--muted)}\nheader.nav a:hover {color: var(--fg);text-decoration: none}\n\nmain {max-width: 1200px;margin: 0 auto;padding: 0 40px}\n\nsection {padding: 80px 0;border-bottom: 1px solid var(--border)}\n\n.hero {min-height: 70vh;display: grid;grid-template-columns: 320px 1fr;gap: 80px;align-items: start;padding-top: 120px}\n.hero-left h1 {font-size: 20px;font-weight: 400;letter-spacing: 0.02em;margin-bottom: 16px}\n.hero-left .tag {color: var(--accent);font-size: 13px;letter-spacing: 0.1em;text-transform: uppercase;margin-bottom: 24px}\n.hero-left p {color: var(--muted);font-size: 14px}\n.hero-right {padding-top: 40px}\n.hero-right .lead {font-size: 15px;color: var(--fg);max-width: 560px;margin-bottom: 32px}\n.hero-right .meta {display: grid;grid-template-columns: repeat(2, 1fr);gap: 24px;max-width: 480px}\n.hero-right .meta-item {border-left: 2px solid var(--accent);padding-left: 16px}\n.hero-right .meta-item dt {font-size: 12px;color: var(--muted);margin-bottom: 4px}\n.hero-right .meta-item dd {font-size: 14px}\n\n.h2 {font-size: 24px;font-weight: 400;margin-bottom: 40px;letter-spacing: 0.02em}\n.h2 .num {color: var(--muted);font-size: 14px;margin-right: 12px}\n\n.usage-step {padding: 32px 0;border-bottom: 1px dashed var(--border)}\n.usage-step:last-child {border-bottom: none}\n.usage-step h3 {font-size: 16px;font-weight: 400;margin-bottom: 12px}\n.usage-step h3 .step-num {color: var(--accent);margin-right: 12px}\n.usage-step p {color: var(--muted);font-size: 14px;max-width: 640px}\n\n.plans-table {width: 100%;border-collapse: collapse;font-size: 14px}\n.plans-table th, .plans-table td {padding: 20px 16px;text-align: left;border-bottom: 1px solid var(--border);vertical-align: top}\n.plans-table th {color: var(--muted);font-weight: 400;font-size: 12px;text-transform: uppercase;letter-spacing: 0.08em}\n.plans-table td:first-child {color: var(--muted);width: 25%}\n.plans-table .plan-name {color: var(--fg);font-size: 15px}\n.plans-table .featured-col {background: rgba(57, 255, 20, 0.04)}\n.plans-table .featured-col .plan-name {color: var(--accent)}\n.plans-table .price {font-size: 18px;margin-bottom: 4px}\n.plans-table .annual {color: var(--muted);font-size: 12px}\n.plans-table .feature-list {list-style: none;font-size: 13px}\n.plans-table .feature-list li {padding: 4px 0;color: var(--fg)}\n.plans-table .feature-list li::before {content: \"— \";color: var(--muted)}\n\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 48px 64px}\n.faq-item h3 {font-size: 15px;font-weight: 400;margin-bottom: 12px;color: var(--accent)}\n.faq-item p {font-size: 14px;color: var(--muted)}\n\nfooter {padding: 48px 40px;text-align: left;font-size: 13px;color: var(--muted);max-width: 1200px;margin: 0 auto}\n\n@media (max-width: 768px) {\n  main {padding: 0 20px}\n  header.nav ul {padding: 14px 20px;gap: 20px}\n  .hero {grid-template-columns: 1fr;gap: 40px;padding-top: 60px;min-height: auto}\n  .hero-right .meta {grid-template-columns: 1fr}\n  .faq-grid {grid-template-columns: 1fr;gap: 32px}\n  .plans-table {display: block;overflow-x: auto}\n  section {padding: 48px 0}\n}\n</style><header class=\"nav\">\n  <ul>\n    <li><a href=\"#overview\">概览</a></li>\n    <li><a href=\"#usage\">使用说明</a></li>\n    <li><a href=\"#plans\">套餐</a></li>\n    <li><a href=\"#faq\">常见问题</a></li>\n  </ul>\n</header>\n\n<main>\n\n  <section class=\"hero\" id=\"overview\">\n    <div class=\"hero-left\">\n      <div class=\"tag\">Telelink / Service</div>\n      <h1>白嫖(Telelink) · 白嫖 (Telelink)</h1>\n      <p>按月计费的网络中转服务</p>\n    </div>\n    <div class=\"hero-right\">\n      <p class=\"lead\">\n        白嫖 (Telelink) 提供按月计费的网络中转服务。本页面列出了当前可用的套餐规格、设备支持数量以及使用过程中可能遇到的常见问题。所有信息以本页展示为准。\n      </p>\n      <dl class=\"meta\">\n        <div class=\"meta-item\">\n          <dt>计费方式</dt>\n          <dd>按月 / 按年</dd>\n        </div>\n        <div class=\"meta-item\">\n          <dt>支持设备</dt>\n          <dd>3 至 20 台</dd>\n        </div>\n        <div class=\"meta-item\">\n          <dt>套餐数量</dt>\n          <dd>3 种规格</dd>\n        </div>\n        <div class=\"meta-item\">\n          <dt>文档状态</dt>\n          <dd>已发布</dd>\n        </div>\n      </dl>\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2 class=\"h2\"><span class=\"num\">01</span>使用说明</h2>\n\n    <div class=\"usage-step\">\n      <h3><span class=\"step-num\">步骤一</span>选择套餐并完成订阅</h3>\n      <p>在套餐对比区域中查看基础版、旗舰版与团队版的流量额度及设备数量差异。选定后按页面提示完成按月或按年订阅。年付方案在月费基础上折算，价格见各套餐标注。</p>\n    </div>\n\n    <div class=\"usage-step\">\n      <h3><span class=\"step-num\">步骤二</span>获取接入配置</h3>\n      <p>订阅完成后，系统会生成与所选套餐对应的接入配置。配置信息包含节点地址、端口及认证参数。请妥善保存，避免泄露给未授权人员。</p>\n    </div>\n\n    <div class=\"usage-step\">\n      <h3><span class=\"step-num\">步骤三</span>在设备上完成连接</h3>\n      <p>将接入配置导入客户端，按设备类型选择对应的连接方式。单套餐支持的同时在线设备数上限在套餐规格中已标明，超出限制时新设备将无法建立连接。</p>\n    </div>\n\n    <div class=\"usage-step\">\n      <h3><span class=\"step-num\">步骤四</span>流量使用与续费</h3>\n      <p>每月流量配额在订阅周期开始时重置。流量用尽后连接将暂停，直至下一周期或手动追加。套餐到期前可按原价格续费，逾期未续费时配置将停止生效。</p>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"h2\"><span class=\"num\">02</span>套餐对比</h2>\n\n    <table class=\"plans-table\">\n      <thead>\n        <tr>\n          <th>规格</th>\n          <th>基础版</th>\n          <th class=\"featured-col\">旗舰版</th>\n          <th>团队版</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>月费</td>\n          <td><div class=\"price\">¥15</div><div class=\"annual\">年付 ¥150/年</div></td>\n          <td class=\"featured-col\"><div class=\"price\">¥35</div><div class=\"annual\">年付 ¥350/年</div></td>\n          <td><div class=\"price\">¥85</div><div class=\"annual\">年付 ¥850/年</div></td>\n        </tr>\n        <tr>\n          <td>每月流量</td>\n          <td>100GB</td>\n          <td class=\"featured-col\">300GB</td>\n          <td>1000GB</td>\n        </tr>\n        <tr>\n          <td>同时在线设备</td>\n          <td>3 台</td>\n          <td class=\"featured-col\">5 台</td>\n          <td>20 台</td>\n        </tr>\n        <tr>\n          <td>流媒体</td>\n          <td>基础流媒体</td>\n          <td class=\"featured-col\">全节点流媒体</td>\n          <td>全节点流媒体</td>\n        </tr>\n        <tr>\n          <td>节点池</td>\n          <td>普通线路</td>\n          <td class=\"featured-col\">含 IPLC 专线</td>\n          <td>VIP 专属高带宽</td>\n        </tr>\n        <tr>\n          <td>支持服务</td>\n          <td>标准工单</td>\n          <td class=\"featured-col\">7×24 优先工单</td>\n          <td>专属客户经理</td>\n        </tr>\n        <tr>\n          <td>权益清单</td>\n          <td>\n            <ul class=\"feature-list\">\n              <li>每月 100GB 流量</li>\n              <li>3 台设备同时在线</li>\n              <li>解锁基础流媒体</li>\n              <li>普通线路节点池</li>\n            </ul>\n          </td>\n          <td class=\"featured-col\">\n            <ul class=\"feature-list\">\n              <li>每月 300GB 流量</li>\n              <li>5 台设备同时在线</li>\n              <li>全节点流媒体解锁</li>\n              <li>IPLC 专线游戏加速</li>\n              <li>7×24 优先工单支持</li>\n            </ul>\n          </td>\n          <td>\n            <ul class=\"feature-list\">\n              <li>每月 1000GB 流量</li>\n              <li>20 台设备同时在线</li>\n              <li>VIP 专属高带宽节点</li>\n              <li>支持企业定制路由</li>\n              <li>专属客户经理服务</li>\n            </ul>\n          </td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"h2\"><span class=\"num\">03</span>常见问题</h2>\n\n    <div class=\"faq-grid\">\n      <article class=\"faq-item\">\n        <h3>流量每月何时重置？</h3>\n        <p>流量配额按订阅周期计算，在每个计费周期开始时自动重置。周期起始日以订阅成功日为准，不固定为每月 1 日。</p>\n      </article>\n\n      <article class=\"faq-item\">\n        <h3>设备数超出上限会怎样？</h3>\n        <p>当同时在线设备数达到套餐上限时，新设备尝试连接将无法建立通道。断开其中一台设备后，新设备即可正常接入。</p>\n      </article>\n\n      <article class=\"faq-item\">\n        <h3>月付能否随时切换为年付？</h3>\n        <p>可以在当前月付周期结束前发起切换。年付费用按剩余周期折算补差，切换后流量配额不变，计费周期顺延一年。</p>\n      </article>\n\n      <article class=\"faq-item\">\n        <h3>套餐之间能否升降级？</h3>\n        <p>支持在周期结束时升降级。升级时按剩余天数折算差价，降级时差价不计退回，下一周期按新套餐价格计费。</p>\n      </article>\n\n      <article class=\"faq-item\">\n        <h3>流量用尽后能否追加？</h3>\n        <p>基础版与旗舰版不单独出售追加流量包，流量用尽后需等待下一周期重置。团队版可联系客户经理按需购买额外流量。</p>\n      </article>\n\n      <article class=\"faq-item\">\n        <h3>订阅后多久能收到配置？</h3>\n        <p>订阅完成后系统自动生成接入配置，通常在数分钟内可通过页面上对应入口查看。如长时间未显示，可通过工单反馈。</p>\n      </article>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <p>白嫖 (Telelink) — 本页面信息以当前展示为准，不构成额外承诺。</p>\n</footer>",
+          "hash": "6e0cbcca3a43938c71455e657580459ac2099ca2cf24facaf77ec36b9ed29f3a",
+          "seo": {
+            "title": "白嫖 (Telelink) — 网络中转服务",
+            "keywords": "白嫖, Telelink, 网络中转, 流量套餐, 网络代理",
+            "description": "白嫖 (Telelink) 提供按月计费的网络中转服务。本页面说明套餐内容、设备支持与常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "7710",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chengxiangjob.cn",
+    "host": "p-2aed6476bb.chengxiangjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "235fbd9fe7c606f7f63669af81c9de657914be85b2a367e414c2053dc8b51f9d",
+    "sitemap.xml": "1b898f23d4fb7dd868cbb33c5299ae2031bfdd74e7826413873c6b8528854365",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e8f97bc5bb103f4c0d1ed4830e784f92cbd911aea8ffb0e662bd2b19eb6c6777",
+    "robots.txt": "cc63d7526bea383512317fcafe1ad050818d09eff2e2fd292a072fd1a97b147e",
+    "4886919f6918d9a02b331cb01310f101.txt": "96d415f9e5a084437b64a31c1a5a9071a5b224f6fd885819f8e0d8825d2fa205"
+  },
+  "revision": "60335edcc6aa9d34248956221d733cfbf51512eeee5d4554c9677f71b9034363"
+}
